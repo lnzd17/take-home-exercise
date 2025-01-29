@@ -20,6 +20,7 @@
 - Product detail pages with more info on each product
 - Add cache for scoring
 - More styling around error message and loading message
+- Add unit tests for the backend utils
 
 # Full-Stack Engineering Take-Home Exercise
 
