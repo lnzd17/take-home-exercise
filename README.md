@@ -1,3 +1,26 @@
+# Project Notes - Lindsay
+
+## Features 
+- Filter by multiple characteristics at once
+- Backend caching for products (including filters)
+- Add score endpoint and also display in client
+- Some styling (including mobile and desktop)
+- Some loading and error handling in the client
+
+## Decisions made outside of requirements
+- Filter functionality: Select one or more the characteristic tags on a product card and the UI will update with just the relevant cards. You can also unselect the tags. Added hover/select styling to make this more clear.
+
+
+## With more time future improvements could include:
+- More exciting styling with color palette
+- Accessibility labeling
+- Sorting the product list by score or name
+- User functionality like logging in, rating products, etc
+- Cache invalidation functionality
+- Product detail pages with more info on each product
+- Add cache for scoring
+- More styling around error message and loading message
+
 # Full-Stack Engineering Take-Home Exercise
 
 👋 Hello from Berry Street! 
